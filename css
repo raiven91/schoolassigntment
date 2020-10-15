@@ -1,0 +1,31 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&family=Rock+Salt&display=swap");
+
+h2 {
+  backgroundcolor: #BA5A31;
+  font: "Rock Salt", cursive;
+}
+
+p {
+  text-align: center;
+  font: "Roboto", sans-serif;
+}
+
+div {
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+body {
+  backgroundcolor: #606c38;
+}
+
+nav a {
+  color: #FCDC4D;
+}
+
+home-headline-3 {
+  text-align: center;
+}
+main {
+  backgroundcolor: white;
+}
